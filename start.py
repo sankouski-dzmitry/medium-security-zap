@@ -10,7 +10,7 @@ zap_ip = 'localhost'
 port = 12345
 spiderTimeoutInMin = 2
 startupTimeoutInMin=1
-target='http://localhost:8080'
+target='http://wl.loc/'
 
 def main(argv):
   #Initialize Zap API

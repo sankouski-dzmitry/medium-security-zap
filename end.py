@@ -9,7 +9,7 @@ from zap_common import *
 zap_ip = 'localhost'
 port = 12345
 passiveScanTimeoutInMin=1
-target='http://localhost:8080'
+target='http://wl.loc/'
 report_dir='/out/'
 
 def main(argv):
